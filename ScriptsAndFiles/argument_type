@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for i in "$*"	#treat as a single argument
+do
+	echo $i
+done
+
+for i in "$@"	#treat as a indivisual argument
+do
+	echo $i
+done
+

@@ -1,0 +1,1001 @@
+ javac -version
+  240  sudo update-alternatives --config java
+  241  javac -version
+  242  sudo update-alternatives --config javac
+  243  javac -version
+  244  java -version
+  245  javac -version
+  246  sudo update-alternatives --config javac
+  247  1
+  248  sudo update-alternatives --config javac
+  249  javac -version
+  250  java -version
+  251  sudo update-alternatives --config java
+  252  java -version
+  253  sudo update-alternatives --config javac
+  254  sudo update-alternatives --config java
+  255  sudo add-apt-repository ppa:linuxuprising/java
+  256  sudo apt update
+  257  sudo apt install oracle-java11-installer
+  258  sudo apt install oracle-java11-set-default
+  259  java -version
+  260  sudo apt-get remove openjdk*
+  261  sudo apt-get remove --auto-remove openjdk*
+  262  sudo apt-get purge openjdk*
+  263  sudo apt-get purge --auto-remove openjdk*
+  264  java -version
+  265  javac -version
+  266  sudo apt-get update
+  267  sudo add-apt-repository ppa:linuxuprising/java
+  268  sudo apt-get update
+  269  sudo apt-get install oracle-java11-set-default-local
+  270  sudo apt-get install oracle-java11-installer-local
+  271  sudo apt-get update
+  272  sudo apt-get install oracle-java11-installer-local
+  273  javac -version
+  274  mongo -version
+  275  sudo apt-get install mongodb
+  276  sudo apt-get update
+  277  sudo service mongodb start
+  278  mongo
+  279  exit
+  280  java -version
+  281  sudo update-alternatives --install /usr/bin/java java /home/bridglabz/important files/jdk-11.0.5/bin/java 1
+  282  sudo diskf
+  283  sudo disk
+  284  mysql -u root -p
+  285  exit
+  286  mysql -u root -p
+  287  exit
+  288  mysql -u root -p
+  289  clear
+  290  mysql -u root -p
+  291  clear
+  292  mysql -u root -p
+  293  exit
+  294  nano linuxcmd.txt
+  295  cd/home
+  296  cd/sachin
+  297  cd/home/
+  298  cd /home
+  299  cd /desktop
+  300  cd /Desktop
+  301  Desktop
+  302  cd /sachin
+  303  cd /Bridgelabz
+  304  cd /home/
+  305  pwd
+  306  cd /home/sachin
+  307  cd /sachin
+  308  pwd
+  309  cd /home/Linux
+  310  cd /home
+  311  cd /Desktop
+  312  cd /home/
+  313  ls
+  314  cd /Linux
+  315  ls /home/
+  316  ls --help
+  317  ls -l
+  318  ls
+  319  ls -l
+  320  cp linuxcmd.txt /home/bridglabz/Linux /
+  321  cd /bridglabz
+  322  pwd
+  323  cd /Linux
+  324  ls
+  325  cd /Desktop
+  326  cd /Desktop/
+  327  cd Desktop
+  328  cd /home
+  329  pwd
+  330  cd /bridglabz
+  331  pwd
+  332  ls
+  333  cd bridglabz/
+  334  Linux
+  335  cd Linux
+  336  ls
+  337  ls -l
+  338  cd ..
+  339  pwd
+  340  ls -l
+  341  cd sachin
+  342  ls -l
+  343  cd LoginAPI-master/
+  344  cd ..
+  345  cd .
+  346  cd ..
+  347  clear
+  348  ls -l
+  349  cd Linux
+  350  cd home/Linux
+  351  ls
+  352  pwd
+  353  cd home
+  354  ls
+  355  cd bridglabz/ 
+  356  ls
+  357  cd Linux
+  358  cd ~
+  359  pwd
+  360  vi linuxcmd.txt
+  361  ls
+  362  cp linuxcmd.txt /Linux/
+  363  cp linuxcmd.txt Linux
+  364  ls linux
+  365  ls Linux
+  366  man
+  367  man ls -l
+  368  pwd
+  369  ls
+  370  mv linuxcmd.txt Desktop 
+  371  ls
+  372  rm Desktop/linuxcmd.txt
+  373  pwd
+  374  cd Linux
+  375  ls
+  376  cat linuxcmd.txt
+  377  echo "hello"
+  378  less linuxcmd.txt
+  379  mv --help | grep verbose
+  380  touch file1.txt file2.txt
+  381  ls
+  382  mkdir files
+  383  ls -l
+  384  mkdir file3.txt
+  385  ls -l
+  386  chmod +x file1.txt
+  387  ls -l
+  388  man +help
+  389  man + help
+  390  man help
+  391  man --help
+  392  head linuxcmd.txt
+  393  df -h
+  394  du -ah
+  395  ps -elf
+  396  top
+  397  date
+  398  id
+  399  last
+  400  clear
+  401  ./Desktop
+  402  .Desktop
+  403  ./Linux
+  404  cd Linux
+  405  tree
+  406  sudo apt install tree
+  407  tree
+  408  tree Desktop
+  409  tree home
+  410  clear
+  411  nano example1.sh
+  412  ./example1.sh
+  413  chmod 777 example1.sh
+  414  ./example1.sh
+  415  cd Linux
+  416  ./example1.sh 
+  417  nano variable.sh
+  418  chmod 777 variable.sh
+  419  ./variable.sh 
+  420  nano variable.sh
+  421  ./variable.sh 
+  422  nano variable.sh
+  423  chmod 777 variable.sh
+  424  ./variable.sh 
+  425  nano add.sh
+  426  chmod 777 ./add.sh
+  427  ./add.sh
+  428  nano add.sh
+  429  chmod 777 ./add.sh
+  430  ./add.sh
+  431  nano add.sh
+  432  ./add.sh
+  433  nano add.sh
+  434  ./add.sh
+  435  nano add.sh
+  436  cd Linux
+  437  nano variable1.sh
+  438  chmod 777 variable1.sh
+  439  ./variable.sh
+  440  ./variable1.sh
+  441  ./variable1.sh sachin barpete
+  442  nano variable1.sh
+  443  ./variable1.sh sachin barpete
+  444  ./variable1.sh "sachin barpete"
+  445  ./variable1.sh "sachin" "barpete"
+  446  nano while.sh
+  447  chmod 777 while.sh
+  448  ./while.sh
+  449  nano while.sh
+  450  ./while.sh
+  451  nano while.sh
+  452  ./while.sh
+  453  chmod 777 while.sh
+  454  ./while.sh
+  455  nano while.sh
+  456  ./while.sh
+  457  nano add.sh
+  458  ./add.sh
+  459  chmod 777 add.sh
+  460  ./add.sh
+  461  nano add.sh
+  462  ./add.sh
+  463  nano add.sh
+  464  ./add.sh
+  465  nano add.sh
+  466  ./add.sh
+  467  nano for.sh
+  468  chmod 777 for.sh
+  469  ./for.sh
+  470  nano until.sh
+  471  chmod 777 until.sh
+  472  ./until.sh
+  473  nano nestedWhile.sh
+  474  chmod 777 nestedWhile.sh
+  475  ./nestedWhile.sh  
+  476  nano nestedWhile.sh
+  477  chmod 777 nestedWhile.sh
+  478  ./nestedWhile.sh  
+  479  cd Linux
+  480  nano nestedWhile.sh  
+  481  chmod 777 nestedWhile.sh
+  482  ./nestedWhile.sh  
+  483  nano nestedWhile.sh  
+  484  chmod 777 nestedWhile.sh
+  485  ./nestedWhile.sh  
+  486  nano nestedWhile.sh  
+  487  chmod 777 nestedWhile.sh
+  488  ./nestedWhile.sh  
+  489  nano nestedWhile.sh  
+  490  cd Linux
+  491  nano nestedWhile.sh  
+  492  ./nestedWhile.sh  
+  493  nano nestedWhile.sh  
+  494  break.sh
+  495  nano break.sh
+  496  chmod 777 break.sh
+  497  ./break.sh
+  498  nano continue.sh
+  499  chmod 777 continue.sh
+  500  ./continue.sh 
+  501  nano continue.sh
+  502  nano functions.sh
+  503  chmod 777 functions.sh
+  504  ./functions.sh 
+  505  nano functions.sh
+  506  ./functions.sh 
+  507  nano functions.sh
+  508  ./functions.sh 
+  509  nano recursiveFunction
+  510  nano recursiveFunction.sh
+  511  chmod 777 recursiveFunction.sh
+  512  ./recursiveFunction.sh 
+  513  clear
+  514  ls
+  515  tree
+  516  ls -lrt
+  517  ls -l
+  518  ls -lrt
+  519  cat text.txt
+  520  cat > abc.txt
+  521  cat abc.txt 
+  522  cat abc1.txt>
+  523  cat> abc1.txt
+  524  cat new_file.txt 
+  525  cat> new_file.txt 
+  526  cat new_file.txt 
+  527  nano new_file.txt 
+  528  cat new_file.txt 
+  529  cat new_file.txt | more
+  530  ls
+  531  ls -l
+  532  rm abc.txt
+  533  rm abc1.txt 
+  534  ls -li
+  535  ./variable.sh
+  536  nano variable.sh
+  537  ./variable.sh
+  538  ./nestedWhile.sh 
+  539  nano nestedWhile.sh 
+  540  ls
+  541  Linux
+  542  mkdir test
+  543  cd test
+  544  mkdir test1.txt
+  545  nano test1.txt/
+  546  cat test1.txt/
+  547  ls
+  548  cat test1.txt/
+  549  ls
+  550  ..
+  551  ../
+  552  cd ..
+  553  cd .
+  554  cd /
+  555  cd home
+  556  cd test
+  557  ls
+  558  cd ~
+  559  ls
+  560  cd test
+  561  ls
+  562  cd ~
+  563  cat Linux/for.sh
+  564  cat Linux/nestedWhile.sh 
+  565  history
+  566  cat Linux/nestedWhile.sh 
+  567  who
+  568  whoami
+  569  who
+  570  whoami
+  571  ipconfig
+  572  ifconfig
+  573  ssh admin1@192.168.0.197
+  574  who
+  575  whoami
+  576  su -admin
+  577  su - admin
+  578  su - admin -p
+  579  su -admin1
+  580  su - admin1
+  581  who
+  582  which cd
+  583  which ls
+  584  which cp
+  585  cal 09 1997
+  586  date 
+  587  date -u
+  588  date +"%t"
+  589  date +"%T"
+  590  date +%D
+  591  date +%F
+  592  date %B
+  593  date +%B
+  594  vi
+  595  vi vim
+  596  vi file1.txt
+  597  cd Linux
+  598  ls -l
+  599  touch file1.txt
+  600  ls -l file1.txt 
+  601  chmod g+x
+  602  chmod g+x file1.txt 
+  603  ls -l file1.txt 
+  604  getent passwd
+  605  getent group
+  606  vi loop.sh
+  607  chmod 777 loop.sh
+  608  ./loop.sh
+  609  jobs
+  610  bg %1
+  611  dhhfdsd%kill1
+  612  ls -l
+  613  jobs
+  614  kill %1
+  615  jobs
+  616  kill %1
+  617  jobs
+  618  vi fruitList.sh
+  619  cat fruitList.sh 
+  620  sort fruitList.sh 
+  621  sort -u fruitList.sh 
+  622  vi numbers.sh
+  623  cat numbers.sh 
+  624  sort numbers.sh 
+  625  sort -n numbers.sh 
+  626  vi numbers.sh 
+  627  cat numbers.sh 
+  628  sort -n numbers.sh 
+  629  sort -rn numbers.sh 
+  630  cat fruitList.sh |uniq
+  631  cd ..
+  632  cd Test
+  633  ls
+  634  ls 
+  635  vi numbers2.txt
+  636  sort -n numbers.txt numbers2.txt 
+  637  sort -nu numbers.txt numbers2.txt 
+  638  top
+  639  top -b -n 1
+  640  ps
+  641  ps -ef |more
+  642  ls -l
+  643  ls -l > filename.txt
+  644  > filename.txt 
+  645  cat filename.txt 
+  646  ls -l > filename.txt
+  647  vi filename.txt 
+  648  > filename1.txt
+  649  vi filename.txt 
+  650  echo hello >filename.txt 
+  651  vi filename.txt 
+  652  ls-l >filename.txt 
+  653  ls -l
+  654  ls -l >filename.txt 
+  655  ls -l text1.txt
+  656  ls -l text1.txt >filename2.txt 2>&1
+  657  vi filename2.txt 
+  658  find filname2.txt
+  659  find .filname2.txt
+  660  find . name filename.txt
+  661  find . -name filename.txt
+  662  find  -name filename.txt
+  663  ls ????
+  664  ls
+  665  ls ????????????
+  666  ls *.txt
+  667  cd ~
+  668  which bash
+  669  cd Test
+  670  which bash
+  671  vi intro.sh
+  672  ./intro.sh
+  673  chmod 777 intro.sh 
+  674  ./intro.sh
+  675  vi intro.sh
+  676  ./intro.sh
+  677  ./intro.sh 12 23
+  678  vi intro.sh
+  679  vi argumentCheck.sh
+  680  chmod 777 argumentCheck.sh 
+  681  ./ argumentCheck.sh ./ argumentCheck.sh
+  682  ./argumentCheck.sh 
+  683  ./argumentCheck.sh 12 23 45 0
+  684  vi argumentCheck.sh
+  685  ./argumentCheck.sh 12 23 45 0
+  686  chmod 777 argumentCheck.sh 
+  687  ./argumentCheck.sh 12 23 45 0
+  688  vi argumentCheck.sh
+  689  ./argumentCheck.sh 10 20
+  690  vi argumentCheck.sh
+  691  vi $*and$@.sh
+  692  chmod 777 and.sh
+  693  ./and.sh 
+  694  ./and.sh 10 20 
+  695  vi and.sh 
+  696  ./and.sh sachin barpete
+  697  vi function.sh
+  698  chmod 777 function.sh 
+  699  ./function.sh 
+  700  vi function.sh
+  701  chmod 777 function.sh 
+  702  ./function.sh 
+  703  vi function2.sh
+  704  chmod 777 function2.sh 
+  705  ./function2.sh 
+  706  ./function2.sh /dev/sda /dev/sdb
+  707  vi while.sh
+  708  chmod 777 while.sh 
+  709  ./while.sh 
+  710  vi while.sh
+  711  ./while.sh 
+  712  vi while.sh
+  713  ./while.sh 
+  714  cd Test
+  715  ls
+  716  ls -l
+  717  cd ..
+  718  mkdir Sachin
+  719  ls -l
+  720  ls
+  721  pwd
+  722  cd Sachin
+  723  pwd
+  724  cat text1.txt
+  725  cat > text1.txt
+  726  ls
+  727  vi text1.txt 
+  728  nano text1.txt 
+  729  history
+  730  vi text1.txt 
+  731  cd Sachin/
+  732  vi text1.sh 
+  733  chmod 777 text1.sh 
+  734  ./text1.sh 
+  735  vi text1.sh 
+  736  ./text1.sh 
+  737  ./text1.sh 12 20
+  738  vi text1.sh 
+  739  chmod 777 text1.sh 
+  740  ./text1.sh 12 20
+  741  vi text1.sh 
+  742  ./text1.sh 12 20
+  743  vi text1.sh 
+  744  ./text1.sh 12 20
+  745  vi text1.sh 
+  746  ./text1.sh 12 20
+  747  vi text1.sh 
+  748  ./text1.sh 12 20
+  749  vi text1.sh 
+  750  cd .Test
+  751  cd Test/
+  752  vi until_t1.sh
+  753  chmod 777 until_t1.sh 
+  754  ./until_t1.sh 
+  755  vi until_t2.sh
+  756  chmod until_t2.sh 
+  757  chmod 777 until_t2.sh 
+  758  ./until_t2
+  759  ./until_t2.sh 
+  760  vi for1.sh
+  761  chmod 777 for1.sh 
+  762  ./for1.sh 
+  763  for3.sh
+  764  vi for2.sh
+  765  chmod 777 for2.sh 
+  766  ./for2.sh 
+  767  vi for3 .sh
+  768  vi for3.sh
+  769  chmod 777 for3.sh
+  770  ./for3.sh 
+  771  vi for3.sh
+  772  ./for3.sh 
+  773  vi for4.sh
+  774  chmod 777 for4.sh 
+  775  ./for4.sh 
+  776  vi for5.sh
+  777  chmod 777 for5.sh
+  778  ./for5.sh 
+  779  vi for5.sh
+  780  cd test
+  781  cd Test
+  782  ls
+  783  ./for5.sh 
+  784  vi for5.sh 
+  785  ./for5.sh 
+  786  vi for5.sh 
+  787  chmod 777 for5.sh
+  788  vi for5.sh 
+  789  ./for5.sh 
+  790  vi for5.sh 
+  791  ./for5.sh 
+  792  vi for5.sh 
+  793  ./for5.sh 
+  794  vi for5.sh 
+  795  vi if1.sh
+  796  chmod 777 if1.sh
+  797  ./ if1.sh
+  798  ./if1.sh 
+  799  vi if1.sh
+  800  ./if1.sh 
+  801  vi if2.sh
+  802  chmod 777 if2.sh
+  803  ./if2.sh 
+  804  vi if2.sh
+  805  ./if2.sh 
+  806  vi if3.sh
+  807  chmod 777 if3.sh 
+  808  ./if3.sh 
+  809  vi if3.sh
+  810  ./if3.sh 
+  811  vi if4.sh
+  812  chmod 777 if4.sh 
+  813  ./if4.sh 
+  814  vi if5.sh
+  815  chmod 777 if5.sh 
+  816  ./if5.sh 
+  817  cd ..
+  818  cd sachin
+  819  ls
+  820  cd ..
+  821  cd Sachin
+  822  ls
+  823  vi text1.sh 
+  824  ./ text1.sh 
+  825  vi text1.sh 
+  826  vi text1.sh 10 20
+  827  ./ text1.sh 
+  828  ./text1.sh 
+  829  ./text1.sh 10 20
+  830  vi text1.sh 10 20
+  831  ./text1.sh 10 20
+  832  vi text1.sh 10 20
+  833  clear
+  834  sudo mknod mynode_char c 5 7
+  835  ls
+  836  ls -l
+  837  cd ..
+  838  cd Test
+  839  cd ..
+  840  cd Sachin
+  841  ls -l
+  842  vi fileChecker.sh
+  843  chmod 777 fileChecker.sh 
+  844  vi fileChecker.sh
+  845  ls
+  846  ls -l
+  847  touch message.log
+  848  ls -l
+  849  ./fileChecker.sh 
+  850  vi fileChecker.sh
+  851  ./fileChecker.sh 
+  852  vi stringLength.sh
+  853  chmod 777 stringLength.sh 
+  854  ./stringLength.sh 
+  855  id
+  856  id -u
+  857  idCheck.sh
+  858  vi idCheck.sh
+  859  chmod 777 idCheck.sh 
+  860  ./idCheck.sh 
+  861  vi idCheck.sh
+  862  ./idCheck.sh 
+  863  sudo ./idCheck.sh 
+  864  input.sh
+  865  vi input.sh
+  866  chmod 777 input.sh 
+  867  ./input.sh 
+  868  vi input2
+  869  vi input2.sh
+  870  chmod 777 input2.sh 
+  871  ./input2.sh 
+  872  vi input2.sh
+  873  ./input2.sh 
+  874  vi input2.sh
+  875  ./input2.sh 
+  876  vi array.sh
+  877  chmod 777 array.sh 
+  878  ./array.sh 
+  879  cd Basic
+  880  ls -l
+  881  caseStatement.sh
+  882  vi caseStatement.sh
+  883  chmod 777 caseStatement.sh 
+  884  ./caseStatement.sh 
+  885  vi caseStatement.sh
+  886  ./caseStatement.sh 
+  887  vi caseStatement.sh
+  888  ./caseStatement.sh 
+  889  ls -l
+  890  cat filename.txt 
+  891  vi filename.txt 
+  892  vi fileHandling.sh
+  893  chmod 777 fileHandling.sh 
+  894  ./fileHandling.sh 
+  895  vi fileHandling.sh
+  896  ./fileHandling.sh 
+  897  vi fileHandling2.sh
+  898  chmod 777 fileHandling2.sh 
+  899  ./fileHandling2.sh 
+  900  vi fileHandling3.sh
+  901  vi fileHandling2.sh
+  902  chmod 777 filehandling3.sh
+  903  chmod 777 fileHandling3.sh
+  904  ./fileHandling3.sh 
+  905  vi fileHandling3.sh
+  906  ./fileHandling3.sh 
+  907  vi fileHandling3.sh
+  908  ./fileHandling3.sh 
+  909  vi fileHandling4.sh
+  910  chmod 777 fileHandling4.sh 
+  911  ./fileHandling4.sh 
+  912  vi fileHandling4.sh
+  913  vi fileHandling5.sh
+  914  chmod 777 fileHandling5.sh 
+  915  ./fileHandling5.sh 
+  916  exit_status_1.sh
+  917  vi exit_status_1.sh
+  918  chmod exit_status_1.sh 
+  919  chmod 777 exit_status_1.sh 
+  920  ./exit_status_1.sh 
+  921  echo $?
+  922  vi exit_status_1.sh
+  923  touch abc.txt
+  924  vi exit_status_1.sh
+  925  ./exit_status_1.sh 
+  926  vi exit_status_1.sh
+  927  vi exit_t1.sh
+  928  chmod 777 exit_t1.sh 
+  929  vi exit_status_1.sh
+  930  ./exit_status_1.sh 
+  931  echo &?
+  932  ./exit_status_1.sh 
+  933  echo $?
+  934  vi exit_t1.sh
+  935  ./exit_status_1.sh 
+  936  echo $?
+  937  vi exit_status_1.sh
+  938  ./exit_status_1.sh 
+  939  echo $?
+  940  ls -l
+  941  mv fileHandling.sh fileHandling1.sh
+  942  ls -l
+  943  mv caseStatement.sh switch_case.sh
+  944  ls -l
+  945  vi random_number.sh
+  946  chmod 777 random_number.sh 
+  947  ./random_number.sh 
+  948  vi random_number.sh
+  949  ./random_number.sh 
+  950  vi array.sh
+  951  chmod 777 array.sh 
+  952  ./array.sh 
+  953  mv array.sh array1.sh
+  954  vi array2.sh
+  955  chmod 777 array2.sh 
+  956  ./array2.sh 
+  957  vi array2.sh
+  958  ./array2.sh 
+  959  vi array2.sh
+  960  ./array2.sh 
+  961  vi array3.sh
+  962  chmod 777 array3.sh 
+  963  ./array3.sh 
+  964  vi array3.sh
+  965  ./array3.sh 
+  966  ls -l
+  967  ./array3.sh 
+  968  chmod 777 array3.sh 
+  969  ./array3.sh 
+  970  vi array3.sh
+  971  ./array3.sh 
+  972  vi array3.sh
+  973  ./array3.sh 
+  974  vi array4.sh
+  975  chmod array4.sh 
+  976  chmod 777 array4.sh 
+  977  ifconfig
+  978  ./array4.sh 
+  979  vi array4.sh
+  980  ./array4.sh 
+  981  pwd
+  982  vi array4.sh
+  983  ./array4.sh 
+  984  vi array4.sh
+  985  ./array4.sh 
+  986  vi array4.sh
+  987  ./array4.sh 
+  988  vi array4.sh
+  989  ./array4.sh 
+  990  vi array4.sh
+  991  ./array4.sh 
+  992  vi array4.sh
+  993  ./array4.sh 
+  994  echo $?
+  995  vi array4.sh
+  996  cd Basic 
+  997  ls -l
+  998  vi array4.sh 
+  999  ./array4.sh 
+ 1000  ifconfig
+ 1001  ip
+ 1002  ip addr show
+ 1003  ./array4.sh 
+ 1004  cd Basic
+ 1005  ./array4.sh 
+ 1006  cat /etc/pass | awk -F':' '{print $1}'
+ 1007  cd ..
+ 1008  cat /etc/pass | awk -F':' '{print $1}'
+ 1009  cd /
+ 1010  cat /etc/pass | awk -F':' '{print $1}'
+ 1011  tree
+ 1012  cd Basic
+ 1013  ls -l
+ 1014  cat array3.sh 
+ 1015  vi array4.sh 
+ 1016  clear
+ 1017  cd Basic 
+ 1018  ls -l
+ 1019  cat filename.txt 
+ 1020  vi filename.txt 
+ 1021  cat filename.txt 
+ 1022  cd Basic
+ 1023  ls -l
+ 1024  ./if5.sh 
+ 1025  vi if5.sh 
+ 1026  ./if5.sh 
+ 1027  vi if5.sh 
+ 1028  ./if5.sh 
+ 1029  ./switch_case.sh 
+ 1030  ./intro.sh 
+ 1031  ./intro.sh 12 20 
+ 1032  vi intro.sh 
+ 1033  history
+ 1034  ls -l
+ 1035  cd Basic 
+ 1036  cat for3.sh 
+ 1037  cat for4.sh 
+ 1038  ls -l
+ 1039  cat if2.sh 
+ 1040  cat for4.sh
+ 1041  cat if3.sh 
+ 1042  cat if2.sh 
+ 1043  tree
+ 1044  history
+ 1045  whoami
+ 1046  who
+ 1047  cd Basic
+ 1048  vi prime_numberChecker.sh
+ 1049  ls -l
+ 1050  ./for4.sh 
+ 1051  vi for3.sh 
+ 1052  chmod 777 for3.sh 
+ 1053  ./for3.sh 
+ 1054  ./fileHandling4.sh 
+ 1055  vi fileHandling4.sh 
+ 1056  vi prime_numberChecker.sh
+ 1057  chmod 777 prime_numberChecker.sh 
+ 1058  ./prime_numberChecker.sh 
+ 1059  vi prime_numberChecker.sh
+ 1060  ./prime_numberChecker.sh 
+ 1061  vi prime_numberChecker.sh
+ 1062  ./prime_numberChecker.sh 
+ 1063  vi prime_numberChecker.sh
+ 1064  ./prime_numberChecker.sh 
+ 1065  vi prime_numberChecker.sh
+ 1066  ./prime_numberChecker.sh 
+ 1067  vi prime_numberChecker.sh
+ 1068  ./prime_numberChecker.sh 
+ 1069  vi prime_numberChecker.sh
+ 1070  ./prime_numberChecker.sh 
+ 1071  vi prime_numberChecker.sh
+ 1072  ./prime_numberChecker.sh 
+ 1073  vi prime_numberChecker.sh
+ 1074  ./prime_numberChecker.sh 
+ 1075  vi prime_numberChecker.sh
+ 1076  ./prime_numberChecker.sh 
+ 1077  vi prime_numberChecker.sh
+ 1078  ./prime_numberChecker.sh 
+ 1079  ./prime_numberChecker.sh 0
+ 1080  vi prime_numberChecker.sh
+ 1081  ./prime_numberChecker.sh 0
+ 1082  vi prime_numberChecker.sh
+ 1083  ./prime_numberChecker.sh 0
+ 1084  vi prime_numberChecker.sh
+ 1085  ./prime_numberChecker.sh 0
+ 1086  vi prime_numberChecker.sh
+ 1087  cat pwd
+ 1088  pwd
+ 1089  passwd
+ 1090  etc/passwd
+ 1091  cat /etc/passwd
+ 1092  ls -l
+ 1093  vi array5.sh
+ 1094  chmod 777 array5.sh 
+ 1095  ./array5.sh 
+ 1096  mv array5.sh username_checker.sh
+ 1097  vi array5.sh
+ 1098  chmod 777 array5.sh 
+ 1099  ./array5.sh 
+ 1100  vi array5.sh
+ 1101  ./array5.sh 
+ 1102  vi comment.sh
+ 1103  chmod 777 comment.sh 
+ 1104  ./comment.sh 
+ 1105  ls -lp
+ 1106  ls -l
+ 1107  vi ftp_script.sh
+ 1108  vi trap.sh 
+ 1109  chmod 777 trap.sh 
+ 1110  ./trap.sh 
+ 1111  jobs
+ 1112  kill %1
+ 1113  jobs
+ 1114  cd ShellScripts
+ 1115  ps -ef | grep -i test
+ 1116  kill -l
+ 1117  ps -ef | grep -i test
+ 1118  cd ShellScript
+ 1119  cd ShellScripts
+ 1120  ls -l
+ 1121  ./palindrome_number.sh
+ 1122  vi trap_signal.sh
+ 1123  chmod 777 trap_signal.sh 
+ 1124  ./trap_signal.sh 
+ 1125  vi trap_signal.sh
+ 1126  ./trap_signal.sh 
+ 1127  ps -ef | grep -i test
+ 1128  ./trap_signal.sh 
+ 1129  kill -l
+ 1130  mkdir Selenium
+ 1131  cd Scripts
+ 1132  ls-l
+ 1133  ls -l
+ 1134  cd ShellScripts/
+ 1135  ls -l
+ 1136  cat filename.txt 
+ 1137  cat filename1.txt 
+ 1138  ls -l
+ 1139  cat filename1.txt 
+ 1140  cd ShellScripts/
+ 1141  ls -l
+ 1142  cat filename1.txt 
+ 1143  ls -l >/dev/null
+ 1144  ls -l test123 > errorFile.txt 2>&1
+ 1145  mv errorFile.txt error_file.txt
+ 1146  cat error_file.txt 
+ 1147  exec 3 <> mylog.txt
+ 1148  cd ShellScripts/
+ 1149  ls -l
+ 1150  cat mylog.txt 
+ 1151  $echo "hello"
+ 1152  echo "hello"
+ 1153  exec 3<> mylog.txt
+ 1154  echo "hello" >&3
+ 1155  cat mylog.txt 
+ 1156  echo "hello world" >&3
+ 1157  cat mylog.txt 
+ 1158  echo "hello" >&3
+ 1159  ls -l
+ 1160  ls -lR
+ 1161  ls -lR |less
+ 1162  ls -lt
+ 1163  ls -lt | head -10
+ 1164  find -type f -print | wc
+ 1165  find . -type f -print | wc
+ 1166  find . -type f -print | wc-| q
+ 1167  find . -type f -print | wc-l
+ 1168  ls *.txt
+ 1169  ls err[a-p]r
+ 1170  ls err[a-p]r_file.txt
+ 1171  ls {*.txt,*.sh,*.pdf}
+ 1172  touch new folder
+ 1173  ls 
+ 1174  rm new
+ 1175  find .
+ 1176  find /home/ name sachin
+ 1177  pwd
+ 1178  find /home/bridglabz/ShellScripts -name for1.sh
+ 1179  find .for1.sh
+ 1180  find for1.sh
+ 1181  find .
+ 1182  tree
+ 1183  find . -maxdepth 2  -name "*.txt"
+ 1184  find . -maxdepth 2 -not -name "*.txt"
+ 1185  find . -name "*.sh" -o name "*.txt"
+ 1186  find . -name "*.sh" -o -name "*.txt"
+ 1187  clear
+ 1188  grep "sachin"
+ 1189  grep "bridglabz" for1.sh
+ 1190  &?
+ 1191  echo $?
+ 1192  grep "bridglabz" for1.sh
+ 1193  echo $?
+ 1194  vi text_file.txt
+ 1195  grep "sachin" text_file.txt 
+ 1196  vi text_file.txt
+ 1197  grep -i "sachin" *
+ 1198  grep -ir "sachin" *
+ 1199  vi text_file.txt
+ 1200  grep -irv "sachin" text_file.txt 
+ 1201  vi text_file.txt
+ 1202  grep -irv "sachin" text_file.txt 
+ 1203  nm a.out
+ 1204  nm
+ 1205  anm
+ 1206  nm
+ 1207  cat a.out
+ 1208  grep -v "S" | awk {'print $3'}
+ 1209  ethtool
+ 1210  sudo apt install ethtool
+ 1211  sudo ethtool ens33
+ 1212  ifcongig
+ 1213  ifconfig
+ 1214  sudo ethtool enp1s0
+ 1215  sudo ethtool enp1s0 | grep -i speed
+ 1216  sudo ethtool enp1s0
+ 1217  sudo ethtool enp1s0 | grep -i speed
+ 1218  vi text_file.txt 
+ 1219  grep -E 'sachin | ankit' text_file.txt 
+ 1220  grep -E 'sachin| ankit' text_file.txt 
+ 1221  grep -E 'sachin|ankit' text_file.txt 
+ 1222  vi text_file.txt 
+ 1223  grep -E 'sachin|ankit' text_file.txt 
+ 1224  cat /proc/cpuinfo
+ 1225  grep -E '(vmx|svm)' /proc/cpuconfig
+ 1226  grep -E '(vmx|svm)' /proc/cpuinfo
+ 1227  grep -ci "sachin" text_file.txt 
+ 1228  grep -rin "sachin" text_file.txt 
+ 1229  grep sachin *.txt
+ 1230  grep -l sachin *.txt
+ 1231  grep -l sachin *.txt |sort |unique
+ 1232  grep -l sachin *.txt |sort |uniq
+ 1233  grep [the]er text_file.txt 
+ 1234  grep '[a-z] [a-c]' text_file.txt 
+ 1235  cat text_file.txt | grep -A 1 sachin
+ 1236  cat text_file.txt | grep -A 1 Barpete
+ 1237  cat text_file.txt | grep -B 1 Barpete
+ 1238  history
+
