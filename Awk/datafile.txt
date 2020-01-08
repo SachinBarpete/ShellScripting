@@ -1,10 +1,10 @@
-Name position field salary	
-sachin engineer software 55000
-ajay manager account 45000
-sunil clerk account 25000
-varun manager sales 50000
-amit manager account 47000
-tarun peon sales 15000
-deepak clerk sales 23000
-sunil peon sales 13000
-satvik director purchase 80000 
+Name position field salary sex
+sachin engineer software 55000 m
+ajay manager account 45000 m
+janvi engineer electronic 25000 f
+varun manager sales 50000 m
+amit manager account 47000 m
+pooja engineer computer 35000 f
+deepak clerk sales 23000 m
+sunil peon sales 13000 m
+satvik director purchase 80000 m 
