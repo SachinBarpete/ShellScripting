@@ -1,0 +1,35 @@
+Minute Hour Date Month DayOfWeek
+0-59	0-23	1-31	1-12 or JAN-DEC    0-7 or SUN-SAT
+
+12,46	1,2,20	 7,29	JAN,DEC   SUN,WED
+
+34-56/2	 6-12	 7-14	 3-8	 MON-FRI
+
+#Every Minute
+*	*	*	*	*
+
+#Every Hour on the hour
+0	*	*	*	*     
+
+#Every five Minute
+*/5	*	*	*	*
+
+#Uneven Interval
+*/7	*	*	*	*
+
+#Nine thirty AM and Five thirty PM Monday to Friday
+30	9,17	*	*	MON-FRI
+
+10	11	12-17	*	WED
+current_minute == 10 && current_hour == 11 && current_month == * && ( current_date == 12-17 || Day_of_week == WED )
+
+#Every 90 minutes
+0	*/3	*	*	* 
+30	1/3	*	*	*
+
+#Ending date of every month 
+30	23	28-31	*	* test $(date -d tomorrow +%d) -eq 1 && Any script
+
+#To show crontab
+sudo  cat /var/spool/cron/crontabs/username/ 
+
